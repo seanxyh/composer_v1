@@ -1,5 +1,5 @@
 <?php
-namespace Composer_v1;
+namespace ComposerV1;
 
 
 Class Base
